@@ -55,6 +55,14 @@ export default {
                 imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017249209650243/A5002CD516262FF43FDECFCFDB8B7885AF3DB8D8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
                 title: 'Ferrari 288 GTO',
             },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017394742504818/148DE918A862CE602EE14FD1FF33650D00A727B2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Nissan Silvia S15',
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017394742509146/D7D75ACDE64754203BE6602AA6C29A1A2F000473/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Nissan 240SX',
+            }
         ],
     },
     getters: {
