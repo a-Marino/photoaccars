@@ -8,6 +8,9 @@
                 See Pictures
             </button>
         </router-link>
+        <p class="footer">
+            Check out my <a href="https://portfolio-andres-marino.web.app/" target="blank" class="link">Portfolio</a>
+        </p>
     </div>
 </template>
 
@@ -60,5 +63,19 @@ export default {
     .btn-pictures:hover {
         background-color: white;
         box-shadow: 0px 0px 30px black;
+    }
+
+    .footer {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        margin: 10px;
+    }
+
+    .link {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        font-size: 1.3em;
     }
 </style>
