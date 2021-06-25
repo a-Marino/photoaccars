@@ -12,9 +12,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
+    
   }
 
   body {
+    background-color: black;
     height: 100%;
     font-family: 'Julius Sans One', sans-serif;
   }
