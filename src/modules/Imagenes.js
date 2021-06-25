@@ -4,6 +4,22 @@ export default {
         // Datos de prueba
         imagenesState: [
             {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017448849222024/6D1811BCA13E8386E73B8DBD48E25D7BFAADCAA4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Acura NSX Japan #1',
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017448849222738/9A4DBB6029AF20D72C5E901E2718F52B04290611/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Acura NSX Japan #2',
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017448849223528/113476B21CB27AE682B205F016CF619F1DD2D104/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Acura NSX Japan #3',
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017448849225026/B1AE7C981501430BD829474A52C1D40E955A955D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Acura NSX Japan #4',
+            },
+            {
                 imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017249214542539/19EFB30AE2C12682AB19870846376E98EAB6BC60/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
                 title: 'Mclaren 720s GT3',
             },
