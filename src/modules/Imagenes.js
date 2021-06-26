@@ -4,6 +4,22 @@ export default {
         // Datos de prueba
         imagenesState: [
             {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017492980939741/FD1B6A705EAA60FB4B151A65C2F4288D29A3C7E4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Acura NSX'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017492980937109/DB1DFBBC4F1B7DE1A5621BCCB0E70996A01F9A94/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Mclaren & Porsche Mugello',
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017492980932096/5EB28169BC60BB03A315C86F87008F0C5756795E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Mclaren & Porsche Mugello'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017492980928349/036E0C1193D98408F9BFDBA1E2B50C618DE7A743/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Lando Norris Austria'
+            },
+            {
                 imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017448849222024/6D1811BCA13E8386E73B8DBD48E25D7BFAADCAA4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
                 title: 'Acura NSX Japan #1',
             },
