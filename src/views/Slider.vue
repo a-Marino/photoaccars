@@ -23,6 +23,7 @@ export default {
 <style scoped>
     .slider {
         height: 100vh;
+        width: 100vw;
     }
     
     .slider-content{

@@ -21,4 +21,17 @@
     height: 100%;
     font-family: 'Julius Sans One', sans-serif;
   }
+
+  .slider::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  .slider::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: transparent;
+  }
+  .slider::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: gray;
+  }
 </style>
