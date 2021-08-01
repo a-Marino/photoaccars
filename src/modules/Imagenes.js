@@ -1,8 +1,35 @@
 export default {
     namespaced: true,
     state: {
-        // Datos de prueba
         imagenesState: [
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1687146663394508096/C63D5645C14672061132CEEAD383DBD69B35A55F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Subaru Impreza STi 98 #3'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1687146663394507496/8541831EAB6065DFA5E82A18AA3E8F2571153698/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Subaru Impreza STi 98 #2'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1687146663394506377/0707CC752935EE777F4391468FA5A0BF7B5F6881/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Subaru Impreza STi 98 #1'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686018841969696576/59DC3476C6199A83561027666BC1C924B382B7B5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Toyota TS040 #5'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686018841969695883/D3A9CF43138808B36B3D295DAB725D867038A40E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Toyota TS040 #3'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686018841969695058/8FAF6FA4528DAD735AAB9101541FA068835F2588/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Toyota TS040 #2'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686018841969694116/CD2BC31FB34892DF0EB3B6AC66B2183926DEA70E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Toyota TS040 #1'
+            },
             {
                 imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1686017492980939741/FD1B6A705EAA60FB4B151A65C2F4288D29A3C7E4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
                 title: 'Acura NSX'

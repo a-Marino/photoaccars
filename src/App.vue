@@ -24,7 +24,7 @@
 
   .slider::-webkit-scrollbar {
     width: 6px;
-    height: 6px;
+    height: 6px; 
   }
   .slider::-webkit-scrollbar-track {
     border-radius: 10px;
