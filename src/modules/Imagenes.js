@@ -3,6 +3,22 @@ export default {
     state: {
         imagenesState: [
             {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1681519340237276631/FDD0B960409644C728CDE129FE50E21C027E33FB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Toyota Gazoo TS050 2019 #2'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1681519340237275553/B1BA78A0DC1860B26BF10A4F53D777130A9CE117/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Toyota Gazoo TS050 2019 #1'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1681518722992566466/38AFE547B271EAE55AF4058A95F710A71F40EC2B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Nissan Silvia S15 Mitasu #2'
+            },
+            {
+                imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1681518722992565849/0B430D836C8F321341B46087F71C68A1ED0C0CE9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
+                title: 'Nissan Silvia S15 Mitasu #1'
+            },
+            {
                 imgPath: 'https://steamuserimages-a.akamaihd.net/ugc/1687146663394508096/C63D5645C14672061132CEEAD383DBD69B35A55F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
                 title: 'Subaru Impreza STi 98 #3'
             },

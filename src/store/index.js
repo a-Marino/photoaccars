@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 
-import imagenes from '@/modules/Imagenes.js'
+import imagenes from '@/modules/Imagenes.min.js'
 
 Vue.use(Vuex)
 
